@@ -1,1 +1,0 @@
-"# Image-slider.gethub.io" 
